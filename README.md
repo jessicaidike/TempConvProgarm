@@ -56,5 +56,4 @@ Although the internal code is heavily cleaned and refactored:
 - `README.md` – documentation  
 
 ---
-
-## How to Run  
+ 
